@@ -1,0 +1,12 @@
+Source: debathena-plymouth-config
+Section: debathena-config/gnome
+Priority: extra
+Maintainer: Debathena Project <debathena@mit.edu>
+Build-Depends: debhelper (>= 7.0.0)
+Standards-Version: 3.9.2
+
+Package: debathena-plymouth-config
+Architecture: all
+Depends: ${misc:Depends}
+Description: Debathena plymouth theme.
+ This package installs a plymouth theme for debathena.

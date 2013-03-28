@@ -1,0 +1,5 @@
+debathena-plymouth-config (1.0) unstable; urgency=low
+
+  * Initial Release. (Trac: #145)
+
+ -- Thomas M Boning <tboning@mit.edu>  Thu, 28 Mar 2013 15:28:41 -0400
