@@ -7,6 +7,6 @@ Standards-Version: 3.9.2
 
 Package: debathena-plymouth-config
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends}, plymouth
 Description: Debathena plymouth theme.
  This package installs a plymouth theme for debathena.
