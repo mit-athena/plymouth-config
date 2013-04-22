@@ -21,7 +21,7 @@ set -e
 case "$1" in
     configure)
 	update-alternatives --install /lib/plymouth/themes/default.plymouth \
-	    default.plymouth /lib/plymouth/themes/debathena/debathena.plymouth 100
+	    default.plymouth /lib/plymouth/themes/debathena/debathena.plymouth 110
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
